@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" />
   <br><br>
   
   ### Backend Technologies  
