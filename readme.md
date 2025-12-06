@@ -1,8 +1,12 @@
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Holographic Interface"/> 
 </div>
 
-# <div align="center">Hi 👋, I'm Hari Babu</div>
+# <div align="center">
+  Hi 👋, I'm Hari Babu
+</div>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!;Full+Stack+Web+Developer!" />
@@ -46,11 +50,11 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" />
   &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" />
   <br><br>
   
   ### Tools & Platforms
@@ -89,4 +93,6 @@
   <a href="mailto:vetaharibabu087@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</div>
+
 </div>
