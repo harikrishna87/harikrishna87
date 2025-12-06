@@ -49,6 +49,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" />
   <br><br>
   
   ### Tools & Platforms
@@ -66,14 +68,12 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" />
   <br><br>
-  
-  ### Additional Skills
-  <img src="https://skillicons.dev/icons?i=python" />
+
+  ### Aditional Technologies (Intermediate)
+  <img src="https://skillicons.dev/icons?i=cs" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" />
-</div>
+  <img src="https://skillicons.dev/icons?i=py" />
+  <br><br>
 
 ## 🤝 Connect with Me
 
