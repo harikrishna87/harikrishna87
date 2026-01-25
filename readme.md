@@ -1,105 +1,486 @@
-<!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hari%20Babu&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Creative%20Developer%20%7C%20Digital%20Innovator%20%7C%20MERN%20Specialist%20✨&descAlignY=60&descSize=22"/>
+
+<!-- Clean Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=1&section=header"/>
+
+<br/>
+
+# 🌐 VHB
+
+<br/>
+
+<img src="https://img.shields.io/badge/●_Available_for_opportunities-00d9ff?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/><br/>
+
+### *Crafting Digital Experiences*
+
+# Creative Developer
+# & Digital Innovator
+
+<br/>
+
+**Building scalable full-stack applications with modern technologies.**  
+**Transforming ideas into seamless, performant digital products.**
+
+<br/>
+
+[![View My Work](https://img.shields.io/badge/View_My_Work-00d9ff?style=for-the-badge&logoColor=black)](https://github.com/YOUR-USERNAME?tab=repositories)
+[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-1a1a2e?style=for-the-badge&logoColor=white)](mailto:vetaharibabu087@gmail.com)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:vetaharibabu087@gmail.com)
+
 </div>
 
-<!-- Animated Status Line -->
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Applications;%F0%9F%92%A1+Transforming+Ideas+Into+Digital+Products;%F0%9F%8C%9F+Available+for+Exciting+Opportunities" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-dodgerblue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Status"/>
-</p>
-
-<!-- Social Links with Animated Icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>&nbsp;
-  <a href="mailto:vetaharibabu087@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>&nbsp;
-  <a href="YOUR-PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📋 ABOUT ME
 
 <br/>
 
-<!-- About Me Section with GIF -->
 <table>
-  <tr>
-    <td width="55%">
-      
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<tr>
+<td width="60%">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
+### Passionate About Creating **Scalable Solutions**
 
-const hariBabu = {
-    pronouns: "He" | "Him",
-    education: "B.Tech EEE (2024) | CGPA: 8.01",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "MERN stack", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js"],
-            css: ["Bootstrap", "Ant Design", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        databases: ["MongoDB", "MySQL", "Firebase"],
-        devOps: ["Git", "GitHub", "Vercel"],
-        mobile: ["Flutter"]
-    },
-    currentFocus: "Building innovative web solutions",
-    funFact: "I debug with console.log() 😄"
-};
-</td> <td width="45%">
-⚡ Quick Stats
+Full Stack Developer with expertise in both front-end and back-end development, proficient in creating scalable web applications using modern technologies. Strong foundation in HTML, CSS, JavaScript, React.js for client-side development and Node.js, Express.js for server-side solutions.
+
+Experienced in database management, RESTful API development, and version control with Git. Quick learner with excellent problem-solving abilities and strong communication skills. Passionate about implementing best coding practices, learning new technologies, and collaborating effectively in team environments to deliver high-quality solutions.
+
+</td>
+<td width="40%">
+
+<table>
+<tr>
+<td align="center">
+  
+**〈/〉**  
+**Frontend Expert**  
+*React.js, TypeScript, HTML5, CSS3, Bootstrap, Ant Design*
+
+</td>
+<td align="center">
+  
+**☰**  
+**Backend Proficient**  
+*Node.js, Express.js, RESTful APIs, MongoDB, MySQL*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+**⚡**  
+**Performance Focused**  
+*Code splitting, lazy loading, optimized load times*
+
+</td>
+<td align="center">
+  
+**✦**  
+**Modern Tools**  
+*Firebase, Vercel, Git, GitHub, VS Code*
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-🎯 Attribute	📊 Value
-📚 Education	B.Tech EEE
-🎓 Graduated	2024
-📈 CGPA	8.01
-💼 Projects	4+ Deployed
-🔥 Focus	MERN Stack
-🌍 Location	India
-</div> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" width="300"/> </p> </td> </tr> </table> <br/> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/> <!-- Tech Stack Section --> <h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/> Tech Arsenal </h2> <br/> <div align="center"> <!-- Frontend --> <details open> <summary><b>🎨 Frontend Development</b></summary> <br/>
-ReactTypeScriptJavaScriptHTML5CSS3BootstrapAnt Design
 
-</details> <!-- Backend --> <details open> <summary><b>⚙️ Backend Development</b></summary> <br/>
-Node.jsExpress.jsMongoDBMySQLFirebaseREST API
+|
+ 🚀 
+**
+4+
+**
+|
+ 📊 
+**
+8.01
+**
+|
+ 💻 
+**
+MERN
+**
+|
+ 🎓 
+**
+2024
+**
+|
+|
+:---------:
+|
+:-----------:
+|
+:-----------:
+|
+:-----------:
+|
+|
+ Projects Deployed 
+|
+ CGPA Score 
+|
+ Stack Proficient 
+|
+ B.Tech Graduate 
+|
 
-</details> <!-- Tools --> <details open> <summary><b>🛠️ Tools & Platforms</b></summary> <br/>
-GitGitHubVS CodeVercelPostmanFigmaRazorpay
+</div>
 
-</details> <!-- Mobile --> <details open> <summary><b>📱 Mobile Development</b></summary> <br/>
-Flutter
+---
 
-</details> </div> <br/> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/> <!-- Skill Progress Section --> <h2 align="center">📊 Skill Proficiency</h2> <br/> <div align="center">
-Technology	Proficiency	Level
-React.js	92%	⭐⭐⭐⭐⭐
-Node.js	88%	⭐⭐⭐⭐
-TypeScript	85%	⭐⭐⭐⭐
-JavaScript	90%	⭐⭐⭐⭐⭐
-HTML & CSS	95%	⭐⭐⭐⭐⭐
-MongoDB	85%	⭐⭐⭐⭐
-Express.js	90%	⭐⭐⭐⭐⭐
-Git & GitHub	92%	⭐⭐⭐⭐⭐
-</div> <br/> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/> <!-- Featured Projects Section --> <h2 align="center">🚀 Featured Projects</h2> <br/> <div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🍔 TastyHub</h3> <p align="center"> <a href="https://github.com/YOUR-USERNAME/tastyhub"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=tastyhub&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866" alt="TastyHub"/> </a> </p> <p align="center"> <strong>E-Commerce Food Platform</strong><br/> Full-stack food ordering with secure payments & real-time tracking </p> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> </p> </td> <td width="50%"> <h3 align="center">📞 IConnect</h3> <p align="center"> <a href="https://github.com/YOUR-USERNAME/iconnect"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=iconnect&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866" alt="IConnect"/> </a> </p> <p align="center"> <strong>Video Calling Platform</strong><br/> Real-time communication with ZegoCloud SDK integration </p> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/ZegoCloud-blue?style=flat-square"/> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🌤️ Weather Dashboard</h3> <p align="center"> <a href="https://github.com/YOUR-USERNAME/weather-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=weather-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866" alt="Weather"/> </a> </p> <p align="center"> <strong>Weather Forecast App</strong><br/> Multi-city weather monitoring with beautiful UI </p> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/> </p> </td> <td width="50%"> <h3 align="center">📱 TastyHub Mobile</h3> <p align="center"> <a href="https://github.com/YOUR-USERNAME/tastyhub-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=tastyhub-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866" alt="TastyHub App"/> </a> </p> <p align="center"> <strong>Mobile Food App</strong><br/> Cross-platform mobile app for food ordering </p> <p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> </p> </td> </tr> </table> </div> <br/> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/> <!-- GitHub Stats Section --> <h2 align="center">📈 GitHub Analytics</h2> <br/> <p align="center"> <a href="https://github.com/YOUR-USERNAME"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF"/> </a> </p> <br/> <!-- Activity Graph --> <p align="center"> <a href="https://github.com/YOUR-USERNAME"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&custom_title=Hari's%20Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&area_color=00F5FF&hide_border=true" alt="Activity Graph"/> </a> </p> <br/> <!-- Trophies --> <p align="center"> <a href="https://github.com/YOUR-USERNAME"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/> </a> </p> <br/> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br/> <!-- Connect Section --> <h2 align="center">🤝 Let's Connect & Collaborate!</h2> <br/> <p align="center"> <em>"The best way to predict the future is to create it."</em> </p> <br/> <p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a>&nbsp;&nbsp;&nbsp; <a href="mailto:vetaharibabu087@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/YOUR-USERNAME"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/YOUR-INSTAGRAM"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/> </a> </p> <br/> <!-- Snake Animation --> <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p> <br/> <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65"/> <p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> </p> <p align="center"> <strong>⭐ Star my repositories if you find them interesting!</strong> </p>
+<br/>
+
+## 🛠️ TECHNOLOGIES I MASTER
+
+<br/>
+
+*Constantly learning and staying up-to-date with the latest technologies to deliver cutting-edge solutions.*
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 Frontend
+
+|
+ Technology 
+|
+ Proficiency 
+|
+|
+:-----------
+|
+:-----------:
+|
+|
+ React.js 
+|
+`████████████████████░░`
+ 92% 
+|
+|
+ TypeScript 
+|
+`█████████████████░░░░░`
+ 85% 
+|
+|
+ JavaScript (ES6+) 
+|
+`██████████████████░░░░`
+ 90% 
+|
+|
+ HTML5 & CSS3 
+|
+`█████████████████████░`
+ 95% 
+|
+|
+ Bootstrap 
+|
+`██████████████████░░░░`
+ 88% 
+|
+|
+ Ant Design 
+|
+`█████████████████░░░░░`
+ 85% 
+|
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+|
+ Technology 
+|
+ Proficiency 
+|
+|
+:-----------
+|
+:-----------:
+|
+|
+ Node.js 
+|
+`██████████████████░░░░`
+ 88% 
+|
+|
+ Express.js 
+|
+`██████████████████░░░░`
+ 90% 
+|
+|
+ RESTful APIs 
+|
+`████████████████████░░`
+ 92% 
+|
+|
+ MongoDB 
+|
+`█████████████████░░░░░`
+ 85% 
+|
+|
+ MySQL 
+|
+`████████████████░░░░░░`
+ 80% 
+|
+|
+ Firebase 
+|
+`█████████████████░░░░░`
+ 85% 
+|
+
+</td>
+<td width="33%" align="center">
+
+### 🔧 Tools & DevOps
+
+|
+ Technology 
+|
+ Proficiency 
+|
+|
+:-----------
+|
+:-----------:
+|
+|
+ Git & GitHub 
+|
+`████████████████████░░`
+ 92% 
+|
+|
+ VS Code 
+|
+`█████████████████████░`
+ 95% 
+|
+|
+ Vercel 
+|
+`██████████████████░░░░`
+ 88% 
+|
+|
+ Razorpay 
+|
+`████████████████░░░░░░`
+ 80% 
+|
+|
+ Postman 
+|
+`██████████████████░░░░`
+ 88% 
+|
+|
+ Figma 
+|
+`███████████████░░░░░░░`
+ 75% 
+|
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+---
+
+<br/>
+
+## 🚀 FEATURED PROJECTS
+
+<br/>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🍔 TastyHub
+**`Full Stack`**
+
+*Explore a World of Culinary Adventures*
+
+📅 Jan 2025 - Apr 2025
+
+An E-Commerce Web Application Platform for comprehensive online food ordering with secure payment integration and real-time order tracking.
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay`
+
+[![View Project](https://img.shields.io/badge/View_Project-00d9ff?style=flat-square)](https://github.com/YOUR-USERNAME/tastyhub)
+
+</td>
+<td width="33%">
+
+### 📞 IConnect
+**`Full Stack`**
+
+*Explore the Future of IConnect*
+
+📅 Jan 2025 - Feb 2025
+
+A Video Calling Web Application with real-time communication powered by ZegoCloud SDK integration for seamless connectivity.
+
+`React.js` `Node.js` `Express.js` `ZegoCloud`
+
+[![View Project](https://img.shields.io/badge/View_Project-00d9ff?style=flat-square)](https://github.com/YOUR-USERNAME/iconnect)
+
+</td>
+<td width="33%">
+
+### 🌤️ Weather Dashboard
+**`Frontend`**
+
+*Explore the Future of Forecasting*
+
+📅 May 2025 - June 2025
+
+A Weather Forecast Website that enables users to monitor weather conditions across multiple cities with intuitive UI.
+
+`React.js` `JavaScript` `Ant Design`
+
+[![View Project](https://img.shields.io/badge/View_Project-00d9ff?style=flat-square)](https://github.com/YOUR-USERNAME/weather-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### 📱 TastyHub Mobile App
+**`Mobile App`**
+
+*Order Your Favorite Food with TastyHub*
+
+📅 Jul 2025 - Sep 2025
+
+Cross-platform mobile application for food ordering with features like browsing, cart management, order tracking & secure checkout.
+
+`Flutter` `Node.js` `Express.js` `MongoDB`
+
+[![View Project](https://img.shields.io/badge/View_Project-00d9ff?style=flat-square)](https://github.com/YOUR-USERNAME/tastyhub-app)
+
+</td>
+<td colspan="2" align="center">
+
+<br/>
+
+[![View All Projects on GitHub](https://img.shields.io/badge/View_All_Projects_on_GitHub_↗-1a1a2e?style=for-the-badge)](https://github.com/YOUR-USERNAME?tab=repositories)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+## 📊 GITHUB ANALYTICS
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=c084fc&currStreakLabel=00d9ff"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=00d9ff&line=c084fc&point=00d9ff&area=true&area_color=00d9ff&hide_border=true" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+<br/>
+
+## 🤝 CONNECT WITH ME
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:vetaharibabu087@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<br/><br/>
+
+**📧 vetaharibabu087@gmail.com**
+
+<br/>
+
+---
+
+<br/>
+
+*"Building scalable full-stack applications with modern technologies."*
+
+<br/>
+
+**⭐ Star my repositories if you find them useful!**
+
+<br/>
+
+</div>
