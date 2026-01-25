@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🌱 **Education:** Completed Graduation in EEE (Electrical & Electronics Engineering)
-- 💼 **Best Project:** FoodDelight Web Application
+- 💼 **Best Project:** TastyHub Web Application
 - 🔭 **Interests:** Future tech and emerging technologies
 - 📫 **Contact:** vetaharibabu087@gmail.com
 - 🎯 **Goal:** Building innovative web solutions that make a difference
@@ -49,8 +49,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />
   &nbsp;&nbsp;
