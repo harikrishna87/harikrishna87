@@ -60,7 +60,7 @@ Contact     : vetaharibabu087@gmail.com
 
 <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=harikrishna87&cc=0d1117&tc=00f5ff&ic=ff2d78&bc=0d1117"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishna87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harikrishna87&theme=tokyonight&hide_border=true"/>
 
 </div>
 
