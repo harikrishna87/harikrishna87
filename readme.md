@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf5fff,100:ff2d78&height=200&section=header&text=Hari%20Babu&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Hari+Babu!;Full+Stack+Web+Developer;Building+Innovative+Web+Solutions;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Hari+Babu!;Full+Stack+Web+Developer;Building+Innovative+Web+Solutions;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-9e70-4434-9203-76ba3a0a07b0.gif" width="300"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-9e70-4434-9203-76ba3a0a07b0.gif" width="280"/>
 
 ```yaml
 Name        : Hari Babu
@@ -30,44 +28,45 @@ Contact     : vetaharibabu087@gmail.com
 
 <br clear="right"/>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwindcss,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwindcss,vite&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&theme=dark" />
 </p>
 
 ### 📚 Additional (Intermediate)
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,py&theme=dark" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harikrishna87&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff2d78&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishna87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harikrishna87&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff2d78&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishna87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=harikrishna87&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=8b949e" width="700"/>
+<img src="https://streak-stats.demolab.com/?user=harikrishna87&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=8b949e&stroke=0d1117" width="680"/>
 
 </div>
 
@@ -77,17 +76,7 @@ Contact     : vetaharibabu087@gmail.com
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harikrishna87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-
-</div>
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🤝 Connect with Me
 
@@ -99,16 +88,8 @@ Contact     : vetaharibabu087@gmail.com
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=harikrishna87&label=Profile+Views&color=00f5ff&style=for-the-badge" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,50:bf5fff,100:00f5ff&height=120&section=footer" width="100%"/>
 
 </div>
